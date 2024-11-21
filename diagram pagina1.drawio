@@ -1,0 +1,136 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Pagina-1" id="GhyjzLmI6bEQsb9QsYgc">
+    <mxGraphModel dx="1295" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-1" value="BAG en BGT&amp;nbsp;&lt;br&gt;afnemers gemeenten beheren deze basisregistraties&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;h4 id=&quot;C39644971&quot;&gt;Artikel 9.30 WOO&lt;/h4&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="60" y="60" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-2" value="oppervlakte, gebuiksdoel, postcode, locatie, op kaart" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="60" y="190" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-3" value="mutaties&amp;nbsp;&lt;br&gt;is er controle geweest of bedrijven zich aan de milleuwetgeving houden?&lt;br&gt;zijn er mutaties van omgevingsdiensten die hebben gecontroleerd?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="60" width="239" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-4" value="artilel 4.1 woo&lt;br&gt;artikel 4.4 lid2 woo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-5" value="informatie achterhouden, selectief omgaan met WOO&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="60" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-6" value="het nemen van besluiten op verzoeken&amp;nbsp;&lt;br&gt;artikel 3 WHO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="690" y="60" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="nxxCSVB9_clNQPi89WoZ-6" target="nxxCSVB9_clNQPi89WoZ-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-8" value="is er selectief omgegaan met de Wet van open overheid?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="520" y="59" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-10" value="mutaties polderlasten van omgevingsdiensten die hebben gecontroleerd&lt;br&gt;lozingsvergunningen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="190" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-11" value="openbare regisers omtrent aanbestedingen&lt;br&gt;verwijzingen verkoop van grond&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="250" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-12" value="waterschappen (kabels) (waterwet)&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Artikel 9.19. Wijziging &lt;/span&gt;&lt;a style=&quot;background-color: initial;&quot; href=&quot;https://wetten.overheid.nl/jci1.3:c:BWBR0005108&amp;amp;g=2024-10-21&amp;amp;z=2024-10-21&quot;&gt;Waterschapswet&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="310" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-13" value="Calmiteiten gebieden 1992&lt;br&gt;amoniakuitoot (co2)&amp;nbsp;&lt;br&gt;leidingenstraat op de molenplaat&lt;br&gt;&lt;div&gt;handhaving en toezicht mileudomein IBP VTH handhaving&amp;nbsp;&lt;br&gt;voldoen aan Robuustheidcriteria&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="370" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-15" value="Wie ontvangt er de subsidie en wat zijn de belastingverorderingen van het geschot die gebaseerd is op het &quot;zeeuws waterschap regelement&quot;&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="60" y="310" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-16" value="&lt;b&gt;Afschrijvingen op vergunningen, concessies en immaterieel erfgoed&amp;nbsp;&lt;/b&gt;&lt;br&gt;- per jaar aanschaf - of voortbrengingskosten max 20% afschrijven met restwaarde&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="516" y="711" width="314" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;verstrekkingen registergoederen&lt;br&gt;&lt;br&gt;&lt;/div&gt;overdraagbaarheid&amp;nbsp;&lt;br&gt;concessies&lt;div&gt;contigenten&lt;/div&gt;&lt;div&gt;quota&lt;/div&gt;&lt;div&gt;concenten&lt;/div&gt;&lt;div&gt;heerlijk visrecht&lt;/div&gt;&lt;div&gt;oudelandse visrecht&amp;nbsp;&lt;/div&gt;&lt;div&gt;grindputten en riolen&lt;br&gt;wet opheffing visserijschap en bedrijfschap voor de groothandel in vis en aanverwante bedrijven&amp;nbsp;&lt;/div&gt;&lt;div&gt;bij overlijden&amp;nbsp;&lt;br&gt;nalatenschap&lt;br&gt;immateriele bedrijfsmiddellen&amp;nbsp;&lt;br&gt;&lt;br&gt;Goederenrecht&lt;br&gt;Personen-en familierecht&amp;nbsp;&lt;br&gt;huwelijks-vermogenrecht en erfrecht&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="516" y="190" width="314" height="314" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-18" value="geen gegevens ontvangen waarop enig invloed op kon worden uitgeoefend.&lt;div&gt;tijdig, juist, volledig aangifte verplchting te voldoen&lt;br&gt;geen vervaardigingsplicht -- geen&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="490" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nxxCSVB9_clNQPi89WoZ-19" target="nxxCSVB9_clNQPi89WoZ-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-19" value="- Er kan geen geschil aan Nederlandse belasting rechter worden voorgelegd&lt;div&gt;- Er kunnen geen termijnoverschrijdingen zijn want ik heb geen gegevens ontvangen waar ik enig invloed op kon uitoefenen.&lt;br&gt;- Criteria openbaarmaking WOO&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Omschrijving bevoegdheden&lt;br&gt;-Fiscaal belang&amp;nbsp;&lt;br&gt;Ontvankelijkheid&lt;br&gt;Ingebrekestelling&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="516" y="501" width="314" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-21" value="Bestuur&amp;nbsp;&lt;br&gt;- Intrekken van vergunningen c.a op verzoek van vergunninghouder&amp;nbsp;&lt;br&gt;- Bij andere beleidsnamen voor mileuwetgevingen&lt;br&gt;-Wettelijke aansprakelijkheid milleugevolgen&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="280" y="510" width="230" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-22" value="verbintennissenrecht schadevergoeding bij verzuim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="60" y="250" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-23" value="Sint Philipsland Historisch&amp;nbsp;&lt;br&gt;slag op de Slaak&lt;br&gt;droogemaakt&lt;br&gt;polder Glimes 1688&lt;br&gt;de auvergne 1693&lt;br&gt;&lt;br&gt;Fransen geven 1795 de vrijheid van de burgerij weer terug er mogen nieuwe gemeentens komen&lt;br&gt;&lt;br&gt;1810 markieszaad verlaten een betaafse Republiek&lt;br&gt;1813 onder koningkrijk der Nederlanden&lt;br&gt;&lt;br&gt;&lt;span lang=&quot;nl&quot; class=&quot;BxUVEf ILfuVd&quot;&gt;Op &lt;b&gt;1 januari 1970&lt;/b&gt;&lt;br&gt; vond voor Krabbendijke de volgende samenvoeging plaats, dit keer met de&lt;br&gt; gemeenten Rilland-Bath, Yerseke, Waarde en Kruiningen tot de gemeente &lt;br&gt;Reimerswaal.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="519" y="871" width="311" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-24" value="Habitat&amp;nbsp;&lt;br&gt;- speelmansplaten omgevingsvergunning&amp;nbsp;&lt;br&gt;besluit art 2.1 en 2.2 wet algemene bepalingen omgevingsrecht&amp;nbsp;&lt;div&gt;art 2.10&lt;/div&gt;&lt;div&gt;art 2.12 eerste lid (buitenplaatsafwijking)&lt;/div&gt;&lt;div&gt;van gronden of bouwwerken in strijd met bestemmingsplan&lt;br&gt;omgevingsvergunning&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="60" y="510" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-25" value="&lt;b&gt;visrechten van geerfden &lt;/b&gt;&lt;br&gt;-Burgelijk wetboek 1838&lt;br&gt;art 641 BW 1838&lt;br&gt;-art 1 Overgangswet 1829 werden burgelijke rechten gehandhaafd&lt;br&gt;-Huidige BW (art 69 OW) per 1 jan 1992 nog bestaande rechten geeerbiedigd als --Registergoederen art 150 lid1 Ow NBW&lt;br&gt;op deze rechten blijven de regels van toepassing die voordien golden.&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Bij gebreke van een wettelijke regeling is het gewoonterecht van toepassing op deze oude rechten.&lt;/b&gt;&lt;br&gt;&lt;h4 id=&quot;C39643231&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;een groep die bijdroeg in aanleg en onderhoud van het water&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/h4&gt;&lt;h4 id=&quot;C39643231&quot;&gt;Artikel 9.25. Wijziging&amp;nbsp;&lt;a href=&quot;https://wetten.overheid.nl/jci1.3:c:BWBR0020809&amp;amp;g=2024-10-21&amp;amp;z=2024-10-21&quot;&gt;Pensioenwet&lt;/a&gt;&lt;/h4&gt;(Bout) (Schot) (Geluk)&amp;nbsp;&lt;br&gt;1850 tot 1859 stedelijk commies.&lt;br&gt;baggeraar&lt;br&gt;wettelijk huwelijksgoederenstelsel&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="280" y="780" width="240" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-26" value="&lt;b&gt;Vervaardigen bewerken en besluit omgevingsrecht&lt;/b&gt;&lt;br&gt;&lt;br&gt;vervaardigen wordt begrepen het tot stand brengen van een stof of product uit grondstoffen of halfabrikaten ook reneratie-aktiviteiten&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="60" y="780" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-27" value="&lt;b&gt;mandaatbesluit 2023 Tholen herzien&lt;/b&gt;&lt;br&gt;afdeling 10.1.1 van de Algemene wet bestuursrecht en artikelen 166 171, lid 2 van de gemeentewet" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1000" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-29" value="Wie ik was, weet ik uit de verhalen van anderen.&amp;nbsp;&lt;br&gt;afstammingsrecht 1993&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1191" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-30" value="&lt;b&gt;Belanghebbende-begrip&amp;nbsp;&lt;/b&gt;&lt;br&gt;- In artikel 1:2, eerste lid, van de Algemene wet bestuursrecht staat dat &lt;br&gt;onder belanghebbende wordt verstaan: degene wiens belang rechtstreeks &lt;br&gt;bij een besluit is betrokken. Op grond van artikel 8:1, in samenhang met&lt;br&gt; artikel 7:1, eerste lid, van de Algemene wet bestuursrecht heeft alleen&lt;br&gt; een belanghebbende het recht om bezwaar te maken tegen een besluit.&amp;nbsp;&lt;br&gt;&lt;br&gt;Het criterium ‘gevolgen van enige betekenis’ van de activiteit is een correctie op dit uitgangspunt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="279" y="1220" width="240" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-31" value="art 10 en AVG&lt;br&gt;private behoefte aan kernnisneming van&amp;nbsp; gegevens als ook verbetering van gegevens&lt;br&gt;&lt;br&gt;auvegnere polder 4 gemet grond&lt;br&gt;immaterieel erfoed Meekrap&lt;br&gt;&lt;br&gt;&lt;b&gt;Historische misverstanden&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;in archief staat betalingen vanaf&amp;nbsp; 1745-1746&lt;br&gt;schiedam het blauwhuis is pas in 1765 gebouwd&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1480" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nxxCSVB9_clNQPi89WoZ-32" value="WOO&lt;br&gt;Door weigering is belang geschaad&lt;br&gt;&lt;br&gt;geeen goede onderbouwing of motivatie&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1160" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5L52SQ1bGJjeM0b4ovFj-1" value="administratieve ondoorzichtigheid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1720" width="239" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-1" value="&lt;b&gt;AIR LIQUIDE&amp;nbsp;&lt;/b&gt;&lt;br&gt;Openbare Inspectie Informatie&lt;br&gt;BRZO+&lt;br&gt;SEVSO+&amp;nbsp;&lt;div&gt;meest risicovolle bedrijven&lt;br&gt;&lt;br&gt;&lt;h4 id=&quot;C39642921&quot;&gt;Artikel 9.32. Wijziging &lt;a href=&quot;https://wetten.overheid.nl/jci1.3:c:BWBR0003994&amp;amp;g=2024-10-21&amp;amp;z=2024-10-21&quot;&gt;Wet bodembescherming&lt;/a&gt;&lt;/h4&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1220" width="220" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-2" value="&lt;b&gt;1570 Poldre&amp;nbsp;&lt;br&gt;1692 Inpolderen&lt;br&gt;Auvegnere polder&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;b&gt;openbare inspectie informatie&lt;/b&gt;&lt;br&gt;- meest druk bevaren route van Europa (Schelde Rijnkanaal)&amp;nbsp;&lt;br&gt;- Veiligheidstudies Risico&lt;br&gt;- hoogspanning 380KV Locatie 4B&lt;br&gt;-cultuur historisch gebied (immaterieel - erfgoed - familiegeschiedenis de geerfde van Reimerswaal meekrap en oude archelogische gronden&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1480" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-3" value="&lt;b&gt;Erfopvolger&lt;/b&gt;&lt;br&gt;leen moest worden verheven met daaraan de verbindingen van financiele verplichtingen.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1700" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-5" value="&lt;b&gt;&amp;nbsp;Unesco verdrag&amp;nbsp;&lt;/b&gt; verplicht om&lt;br&gt;                     immaterieel cultureel erfgoed in het eigen land te inventariseren, zichtbaar te maken&lt;br&gt;                     en te borgen voor de toekomst. De aard van de dienst die met de culturele btw-vrijstelling&lt;br&gt;                     wordt gefaciliteerd kan hierbij goed aansluiten. Dit zijn dan diensten die zien op&lt;br&gt;                     het beheer en behoud van het culturele erfgoed (ofwel het inventariseren, het zichtbaar&lt;br&gt;                     maken en het borgen daarvan). Dit heeft tot gevolg dat – net als bij de culturele&lt;br&gt;                     ANBI-regeling – die diensten buiten de btw-vrijstelling blijven die zich met name&lt;br&gt;                     richten op de vrijetijdsbesteding of hobbymatige beoefening.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&lt;a aria-label=&quot;UNESCO-verdrag ter voorkoming van illegale handel in cultuureigendommen (opent externe website)&quot; class=&quot;external&quot; href=&quot;https://en.unesco.org/fighttrafficking/1970&quot;&gt;&lt;strong&gt;UNESCO-verdrag ter voorkoming van illegale handel in cultuureigendommen&lt;/strong&gt;&lt;/a&gt; ;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="281" y="1780" width="240" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-6" value="&lt;div&gt;Artikel 1.1:&lt;/div&gt;&lt;div&gt;Eenieder heeft recht op toegang tot publieke informatie zonder daartoe een&lt;/div&gt;&lt;div&gt;belang te hoeven stellen, behoudens bij deze wet gestelde beperkingen&lt;br&gt;&lt;br&gt;&lt;div&gt;Artikel 2.5:&lt;/div&gt;&lt;div&gt;Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van&lt;/div&gt;&lt;div&gt;openbaarheid van publieke informatie voor de democratische samenleving.&lt;br&gt;&lt;br&gt;&lt;div&gt;Artikel 4.1:&lt;/div&gt;&lt;div&gt;1. Eenieder kan een verzoek om publieke informatie richten tot een&lt;/div&gt;&lt;div&gt;bestuursorgaan of een onder verantwoordelijkheid van een bestuursorgaan&lt;/div&gt;&lt;div&gt;werkzame instelling, dienst of bedrijf. In het laatste geval beslist het&lt;/div&gt;&lt;div&gt;verantwoordelijke bestuursorgaan op het verzoek.&lt;/div&gt;&lt;div&gt;2. Een verzoek kan mondeling of schriftelijk worden ingediend en kan&lt;/div&gt;&lt;div&gt;elektronisch worden verzonden op de door het bestuursorgaan aangegeven wijze.&lt;/div&gt;&lt;div&gt;3. De verzoeker behoeft bij zijn verzoek geen belang te stellen.&lt;/div&gt;&lt;div&gt;4. De verzoeker vermeldt bij zijn verzoek de aangelegenheid of het daarop&lt;/div&gt;&lt;div&gt;betrekking hebbende document, waarover hij informatie wenst te ontvangen.&lt;/div&gt;&lt;div&gt;(…)&lt;/div&gt;&lt;div&gt;7. Een verzoek om informatie wordt ingewilligd met inachtneming van het&lt;/div&gt;&lt;div&gt;bepaalde in hoofdstuk 5.&lt;br&gt;&lt;br&gt;Bij een verzoek om informatie die ouder is dan vijf jaar motiveert het bestuursorgaan&lt;br/&gt;                                       bij een weigering van die informatie waarom de in &lt;a href=&quot;https://wetten.overheid.nl/BWBR0045754/2024-10-01#Hoofdstuk5_Artikel5.1&quot;&gt;artikel 5.1, tweede of vijfde lid&lt;/a&gt;, of &lt;a href=&quot;https://wetten.overheid.nl/BWBR0045754/2024-10-01#Hoofdstuk5_Artikel5.2&quot;&gt;artikel 5.2&lt;/a&gt; bedoelde belangen ondanks het tijdsverloop zwaarder wegen dan het algemeen belang&lt;br/&gt;                                       van openbaarheid.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="521" y="1271" width="299" height="629" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-7" value="&lt;b&gt;Archiefbescheiden&lt;/b&gt;&lt;br&gt;&lt;br&gt;wet- en regelgeving, waaronder het Burgerlijk Wetboek, fiscale wetgeving en de &lt;a href=&quot;https://www.inspectie-oe.nl/toezichtvelden/overheidsinformatie/wet--en-regelgeving/overige-informatiewetgeving/avg-en-de-archiefwet&quot;&gt;AVG&lt;/a&gt;.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1860" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-8" value="archieftoegang en archiefbescheiden&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;div&gt;&amp;nbsp;welke catego-&lt;/div&gt;&lt;div&gt;rieën archiefbescheiden het gaat. Als bijvoorbeeld het besluit een verwijzing naar nummers in een archieftoe-&lt;/div&gt;&lt;div&gt;gang bevat, dan zal voor de lezer duidelijk moeten zijn waar die archieftoegang (online of op papier)&lt;/div&gt;&lt;div&gt;beschikbaar is&lt;br&gt;-geen onderbouwing van ---openbaarrheidsbeperking&lt;br&gt;--toelichting was grievend&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;maximaal termijn archiefbescheiden -beschikking Gedeputeerde Staten bij beperking meer dan 75 jaar na einde dossier&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;rechtsmiddelenclausule&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;verschoonbaarheid van de termijnoverschrijding&amp;nbsp;&lt;br&gt;--ernstige ziekte&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1990" width="220" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-9" value="(&lt;b&gt;Archiefwet artikel 15, lid 1 onder a, b en c).&amp;nbsp;&lt;/b&gt;&lt;br&gt;eerbiediging persoonlijke levenssfeer&lt;div&gt;benadeling van betrokkenn natuurlijke personen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="60" y="2340" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-10" value="&lt;b&gt;Voorkeursrecht&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="279" y="2160" width="251" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-11" value="&lt;b&gt;Onteigening bij overlaten (polderlasten)&lt;/b&gt;&lt;br&gt;co2 trace&amp;nbsp;&lt;br&gt;&lt;br&gt;zijn anderen personen in dezelfde (fiscale) omstandigheden gunstiger behandeld?&amp;nbsp;&lt;br&gt;&lt;br&gt;beeindigingen pachtcontracten&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="281" y="2420" width="249" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bws2zhonpQ9kMl_3nhZ-12" value="microbiologische critereria&lt;br&gt;&amp;nbsp;Tweekleppige weekdieren en visserijprodukten&lt;br&gt;metingen die gebasseerd zijn op&amp;nbsp;&lt;em&gt;CO&lt;sub&gt;2&lt;/sub&gt;&lt;/em&gt;&amp;nbsp;gehalte&amp;nbsp;&lt;br&gt;wordt de koolstofdioxide gemonitoord" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="521" y="1900" width="309" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bou_6ReHAhj3Yq8zOTjD-1" value="&lt;div&gt;&lt;b&gt;artikelen 2,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;3, 4 en 8 van het Besluit beveiliging gegevens telecommunicatie&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2470" width="220" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
